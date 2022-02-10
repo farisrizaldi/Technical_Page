@@ -1,0 +1,18 @@
+#navbar {
+  overflow:hidden;
+  position: fixed;
+  width: 25vw;
+  left: 0px;
+  top: 0px;
+}
+.navbar-brand{
+  width: 50px;
+  margin-left: 500px;
+}
+.main-section{
+  width: 1080px;
+  font-size: 18px;
+  margin-top: 35px;
+  margin-right: auto;
+  margin-left: auto;
+}
